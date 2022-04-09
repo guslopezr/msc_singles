@@ -13,3 +13,17 @@ body {
 a {
     color: white;
 }
+
+.container-fluid {
+    background-color: #28A745;
+}
+
+.menunav {
+    background-color: #28A745;
+}
+
+.card-body {
+    border-style: groove;
+    border-color: #DDDDDD;
+    border-width: thin;
+}
